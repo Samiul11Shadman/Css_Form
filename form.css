@@ -1,0 +1,105 @@
+.head{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(98, 107, 107);
+    font-size: 40px;
+    line-height: 130px;
+    border-radius: 10px;
+    color: rgb(236, 236, 223);
+
+}
+
+.regcontent{
+    width: 70%;
+    height: 1100px;
+    background-color:rgb(115, 117, 113);
+    margin: auto;
+    
+}
+
+.content{
+    width: 90%;
+    margin-left: 5%;
+    height: 1000px;
+    position: relative;
+    top: 30px;
+    left: 1%;
+    float: left;
+    font-style: initial;
+    font-size: 30px;
+    background-color: rgb(245, 247, 242);
+}
+
+.name{
+    width: 20%;
+    margin-left: 5%;
+    margin-top: 30px;
+    height: 100px;
+    font-style: initial;
+    font-size: 30px;
+    color: rgb(22, 22, 21);
+    float: left;
+}
+
+
+.space{
+    width: 75%;
+    padding-left: 10px;
+    margin-left: 10%;
+    margin-top: 25px;
+    height: 50px;
+    font-style: initial;
+    font-size: 20px;
+    color: rgb(7, 7, 7);
+    border-radius: 10px;
+    float: left;
+}
+
+.diff{
+    width: 75%;
+    padding-left: 10px;
+    margin-left: 10%;
+    font-style: initial;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    float: left;
+}
+
+.button{
+    width: 20%;
+    background-color: rgb(86, 98, 204);
+    padding-left: 10px;
+    margin-left: 11%;
+    margin-top: 90px;
+    height: 50px;
+    font-style: initial;
+    font-size: 20px;
+    color: rgb(238, 234, 234);
+    border-radius: 10px;
+    float: left
+}
+
+.option{
+    width: 40%;
+    background-color: rgb(238, 239, 245);
+    padding-left: 10px;
+    margin-left: 11%;
+    margin-top: 90px;
+    height: 50px;
+    font-style: initial;
+    font-size: 20px;
+    color: rgb(39, 38, 38);
+    border-radius: 10px;
+}
+
+.footer{
+    width: 100%;
+    height: 50px;
+    margin-top: 5px;
+    background-color: rgb(86, 107, 107);
+    font-size: 40px;
+    line-height: 130px;
+    border-radius: 10px;
+    color: rgb(236, 236, 223)
+}
